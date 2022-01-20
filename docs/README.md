@@ -3,7 +3,7 @@ home: true
 lang: zh-CN
 heroText: A  Personal Blog
 heroImage: /logo.jpg
-actionText: 开始 →
+actionText: 开始………… →
 actionLink: /interview/
 features:
 - title: A Blog
